@@ -45,7 +45,11 @@
       "links": [
         {
           "href": "https://github.com/scottdesdev/compositor-test",
-          "text": "GitHub"
+          "text": "GitHub Repo"
+        },
+        {
+          "href": "https://compositor.io",
+          "text": "Compositor.io"
         }
       ]
     },
@@ -64,7 +68,12 @@
           "user": "scottdesdev",
           "repo": "compositor-test"
         }
-      ]
+      ],
+      "slug": "",
+      "text": "Lorem ipsum",
+      "links": [],
+      "image": "http://placehold.it/35",
+      "backgroundImage": ""
     },
     {
       "component": "article",
@@ -84,7 +93,10 @@
           "href": "https://github.com/scottdesdev",
           "text": "scottdesdev"
         }
-      ]
+      ],
+      "heading": "",
+      "meta": "(c) Null",
+      "image": ""
     }
   ]
 }
